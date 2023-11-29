@@ -31,14 +31,14 @@ En éste tendremos este archivo README y otro archivo "Hola Mundo" en lenguaje d
    En el repositorio tendremos que tener dos archivos:
 
    3.1. `Hola_Mundo.py` - Programa python que imprime "Hola Mundo" (generado previamente con VS Code).  
-           3.1.1. Dentro de nuestro repositorio pulsamos Add file y después Upload files.  
-           3.1.2. En la nueva ventana podemos arrastrar el archivo Hola_Mundo.py o abrir un explotador para localizarlo en nuestro equipo.   
-           3.1.3. Pulsamos sobre el botón de “Commit changes” para que se queden guardados los cambios.  
+         3.1.1. Dentro de nuestro repositorio pulsamos Add file y después Upload files.  
+         3.1.2. En la nueva ventana podemos arrastrar el archivo Hola_Mundo.py o abrir un explotador para localizarlo en nuestro equipo.   
+         3.1.3. Pulsamos sobre el botón de “Commit changes” para que se queden guardados los cambios.  
 
    3.2.`README.md` - Este archivo que estás leyendo.  
-           3.2.1. Selecionamos el archivo README.md que se generó al crear el repositorio.  
-           3.2.2. Pulsamos el botón que nos permite editar el contenido, para introducir este texto.  
-           3.2.3. Pulsamos sobre el botón de “Commit changes” para que se queden guardados los cambios.   
+         3.2.1. Selecionamos el archivo README.md que se generó al crear el repositorio.  
+         3.2.2. Pulsamos el botón que nos permite editar el contenido, para introducir este texto.  
+         3.2.3. Pulsamos sobre el botón de “Commit changes” para que se queden guardados los cambios.   
 ---
 
 ¡Tarea completada! :+1:
