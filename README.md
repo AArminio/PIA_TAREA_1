@@ -22,8 +22,8 @@ En éste tendremos este archivo README y otro archivo "Hola Mundo" en lenguaje d
 2. ### Crear Repositorio:
 
    - Haz clic en el botón "+" en tu página principal de GitHub (arriba a la derecha).  
-   - Damos un nombre descriptivo al respositorio y lo marcamos como público.  
-   - Opcional: Agregar una breve descripción del repositorio .  
+   - Damos un nombre descriptivo al repositorio y lo marcamos como público.  
+   - Opcional: Agregar una breve descripción del repositorio.  
    - Marcamos la casilla para que se genere el archivo README.   
    - Pulsamos el botón de crear repositorio.  
 
@@ -36,7 +36,7 @@ En éste tendremos este archivo README y otro archivo "Hola Mundo" en lenguaje d
       - Pulsamos sobre el botón de “Commit changes” para que se queden guardados los cambios.  
 
    3.2. `README.md` - Este archivo que estás leyendo.  
-      - Selecionamos el archivo README.md que se generó al crear el repositorio.  
+      - Seleccionamos el archivo README.md que se generó al crear el repositorio.  
       - Pulsamos el botón que nos permite editar el contenido, para introducir este texto.  
       - Pulsamos sobre el botón de “Commit changes” para que se queden guardados los cambios.   
 ---
